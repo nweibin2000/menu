@@ -3,23 +3,23 @@
                    "price"   :4,
                    "description" :"From Malaysia"},
                   {"food"         :"Chicken Wings",
-                  "food price"    :6,
+                  "price"    :6,
                   "description"  :"From Wuhan,China"},
                   {
                   "food"         :"Rice Ball",
-                  "food price"   :1,
+                  "price"   :1,
                   "description" :"Made from HATYAI,Thailand"
                   },
                   {"food"           :"Roast Chicken",
-                  "food price"      :5,
+                  "price"      :5,
                   "description"    :"Chicken from WuHan,China"
                   },
                   {"food"           :"Roast Pork",
-                     "food price"   :8,
+                     "price"   :8,
                      "description" :"Pork from USA"
                   },
                   {"food"           :"Cha Sao",
-                     "food price"   :8,
+                     "price"   :8,
                      "description" :"From Malaysia"
                   }],
      "ML":[{
