@@ -1,0 +1,99 @@
+{
+     "FL":[{"food":"Chicken Breast",
+                   "price"   :4,
+                   "description" :"From Malaysia"},
+                  {"food"         :"Chicken Wings",
+                  "price"    :6,
+                  "description"  :"From Wuhan,China"},
+                  {
+                  "food"         :"Rice Ball",
+                  "price"   :1,
+                  "description" :"Made from HATYAI,Thailand"
+                  },
+                  {"food"           :"Roast Chicken",
+                  "price"      :5,
+                  "description"    :"Chicken from WuHan,China"
+                  },
+                  {"food"           :"Roast Pork",
+                     "price"   :8,
+                     "description" :"Pork from USA"
+                  },
+                  {"food"           :"Cha Sao",
+                     "price"   :8,
+                     "description" :"From Malaysia"
+                  }],
+     "ML":[{
+            "mixed":"Mixed 1",     
+            "price":20,
+            "description":"Cha Sao, Roast Chicken, Chicken Wings, Chicken Breast"
+            },{
+            "mixed":"Mixed 2-Two Person",     
+            "price":30,
+            "description":"Chicken Breast, Chicken Wings, Chicken Hearts, Chicken Leg"
+            },{
+            "mixed":"Mixed 3-Five Persons",     
+            "price":29,
+            "description":"Chicken Breast, Chicken Wings, Chicken Hearts, Chicken Leg"
+            },{   
+            "mixed":"Mixed 4-Ten Persons",     
+            "price":70,
+            "description":"Chicken Breast, Chicken Wings, Chicken Hearts, Chicken Leg"
+            },{
+            "mixed":"Mixed 5 - Two Persons",     
+            "price":29,
+            "description":"Cha Sao, Roast Pork"
+            },{
+            "mixed":"Mixed 6 - Two Persons",     
+            "price":35,
+            "description":"Roast Chicken Breast, Roast Chicken Wings, Roast Chicken Legs"
+            }],
+            
+    "DL":[{"drinks":"Cola",
+           "price"   :2,
+           "description" :"Canned Drinks"},
+         {
+           "drinks":"F&N Orange",
+           "price"   :2,
+           "description" :"Canned Drinks"
+          },
+          {
+            "drinks":"100 Plus",
+            "price"   :2,
+            "description" :"Canned Drinks"
+           },
+           {
+            "drinks":"F&N Grape",
+            "price"   :2,
+            "description" :"Canned Drinks"
+           },
+           {
+            "drinks":"Fresh Lemon Juice",
+            "price"   :3,
+            "description" :"Fruit Juice"
+           },
+           {
+            "drinks":"Fresh Grape Juice",
+            "price"   :3,
+            "description" :"Fruit Juice"
+           },
+           {
+            "drinks":"Pepsi",
+            "price"   :2,
+            "description" :"Canned Drinks"
+           },
+           {
+            "drinks":"Kickapoo",
+            "price"   :2,
+            "description" :"Bottle Drinks"
+           },
+           {
+            "drinks":"Sky Juice",
+            "price"   :1,
+            "description" :"Hot/Cold"
+           },
+           {
+            "drinks":"Coffee",
+            "price"   :2,
+            "description" :"Hot/Cold"
+           }]
+}
